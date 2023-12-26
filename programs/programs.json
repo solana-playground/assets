@@ -5,9 +5,6 @@
     "repo": "https://github.com/drift-labs/protocol-v2/tree/master/programs/drift",
     "icon": "https://avatars.githubusercontent.com/u/83389928",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending",
@@ -20,9 +17,6 @@
     "repo": "https://github.com/blockworks-foundation/mango-v4/tree/dev/programs/mango-v4",
     "icon": "https://raw.githubusercontent.com/blockworks-foundation/mango-v4-ui/b540fc7afc88fd8627648fd8c777800f5b389cfc/public/192x192.png",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending",
@@ -35,12 +29,20 @@
     "repo": "https://github.com/mrgnlabs/marginfi-v2/tree/main/programs/marginfi",
     "icon": "https://avatars.githubusercontent.com/u/90798644",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending"
+    ]
+  },
+  {
+    "name": "marinade-finance",
+    "description": "Marinde Anchor-Based, first on mainnet, liquid-staking-program and mSOL->SOL swap pool.",
+    "repo": "https://github.com/marinade-finance/liquid-staking-program/tree/main/programs/marinade-finance",
+    "icon": "https://avatars.githubusercontent.com/u/81361338",
+    "framework": "Anchor",
+    "categories": [
+      "DeFi",
+      "Staking"
     ]
   },
   {
@@ -49,9 +51,6 @@
     "repo": "https://github.com/metaplex-foundation/mpl-bubblegum/tree/main/programs/bubblegum/program",
     "icon": "https://avatars.githubusercontent.com/u/84874526",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "NFT",
       "Token"
@@ -63,9 +62,6 @@
     "repo": "https://github.com/metaplex-foundation/mpl-token-metadata/tree/main/programs/token-metadata/program",
     "icon": "https://avatars.githubusercontent.com/u/84874526",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "NFT",
       "Token"
@@ -77,9 +73,17 @@
     "repo": "https://github.com/openbook-dex/openbook-v2/tree/master/programs/openbook-v2",
     "icon": "https://avatars.githubusercontent.com/u/118142591",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
+    "categories": [
+      "DeFi",
+      "Trading"
+    ]
+  },
+  {
+    "name": "perpetuals",
+    "description": "Solana Perpetuals protocol is an open-source implementation of a non-custodial decentralized exchange that supports leveraged trading in a variety of assets.",
+    "repo": "https://github.com/solana-labs/perpetuals/tree/master/programs/perpetuals",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Anchor",
     "categories": [
       "DeFi",
       "Trading"
@@ -91,9 +95,6 @@
     "repo": "https://github.com/Ellipsis-Labs/phoenix-v1",
     "icon": "https://avatars.githubusercontent.com/u/113389252",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending",
@@ -106,9 +107,6 @@
     "repo": "https://github.com/solendprotocol/solana-program-library/tree/mainnet/token-lending/program",
     "icon": "https://avatars.githubusercontent.com/u/83670346",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending"
@@ -120,9 +118,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/account-compression/programs/account-compression",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "Compression",
       "SPL"
@@ -134,9 +129,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/associated-token-account/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -148,9 +140,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/feature-gate/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL"
     ]
@@ -161,9 +150,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/governance/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "Governance",
       "SPL"
@@ -175,9 +161,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/instruction-padding/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL"
     ]
@@ -188,9 +171,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/managed-token/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -202,9 +182,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/memo/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL"
     ]
@@ -215,9 +192,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/name-service/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL"
     ]
@@ -228,9 +202,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/account-compression/programs/noop",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL"
     ]
@@ -241,11 +212,9 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/single-pool/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
-      "SPL"
+      "SPL",
+      "Staking"
     ]
   },
   {
@@ -254,11 +223,9 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/stake-pool/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
-      "SPL"
+      "SPL",
+      "Staking"
     ]
   },
   {
@@ -267,9 +234,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -281,9 +245,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -295,9 +256,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-collection/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -309,9 +267,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-lending/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Lending",
@@ -325,9 +280,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-swap/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "SPL",
@@ -340,9 +292,6 @@
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-upgrade/program",
     "icon": "https://avatars.githubusercontent.com/u/35608259",
     "framework": "Native",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "SPL",
       "Token"
@@ -354,11 +303,31 @@
     "repo": "https://github.com/Squads-Protocol/squads-mpl/tree/main/programs/squads-mpl",
     "icon": "https://avatars.githubusercontent.com/u/84348534",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "Multisig"
+    ]
+  },
+  {
+    "name": "stable-swap",
+    "description": "An automated market maker for mean-reverting trading pairs.",
+    "repo": "https://github.com/saber-hq/stable-swap/tree/master/stable-swap-program/program",
+    "icon": "https://avatars.githubusercontent.com/u/83105283",
+    "framework": "Native",
+    "categories": [
+      "DeFi",
+      "Stablecoin",
+      "Trading"
+    ]
+  },
+  {
+    "name": "uxd",
+    "description": "Implementation of a program that manages on chain accounts to mint and redeem Redeemables tokens (UXD), hedged by a delta neutral position on underlying DEXes.",
+    "repo": "https://github.com/UXDProtocol/uxd-program/tree/main/programs/uxd",
+    "icon": "https://avatars.githubusercontent.com/u/69009416",
+    "framework": "Anchor",
+    "categories": [
+      "DeFi",
+      "Stablecoin"
     ]
   },
   {
@@ -367,9 +336,6 @@
     "repo": "https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool",
     "icon": "https://avatars.githubusercontent.com/u/74166425",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "DeFi",
       "Trading"
@@ -381,9 +347,6 @@
     "repo": "https://github.com/coral-xyz/xnft/tree/master/programs/xnft",
     "icon": "https://raw.githubusercontent.com/coral-xyz/backpack/eb0e020130881356f9c0ca592e16cad101a2d085/assets/backpack.png",
     "framework": "Anchor",
-    "languages": [
-      "Rust"
-    ],
     "categories": [
       "NFT"
     ]
