@@ -1,0 +1,391 @@
+[
+  {
+    "name": "drift-v2",
+    "description": "On-chain perpetuals dex with multiple liquidity mechanisms.",
+    "repo": "https://github.com/drift-labs/protocol-v2/tree/master/programs/drift",
+    "icon": "https://avatars.githubusercontent.com/u/83389928",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending",
+      "Trading"
+    ]
+  },
+  {
+    "name": "mango-v4",
+    "description": "Mango Markets provides a single venue to lend, borrow, swap, and leverage-trade crypto assets through a powerful risk engine.",
+    "repo": "https://github.com/blockworks-foundation/mango-v4/tree/dev/programs/mango-v4",
+    "icon": "https://raw.githubusercontent.com/blockworks-foundation/mango-v4-ui/b540fc7afc88fd8627648fd8c777800f5b389cfc/public/192x192.png",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending",
+      "Trading"
+    ]
+  },
+  {
+    "name": "marginfi",
+    "description": "Marginfi is a decentralized liquidity aggregation protocol that allows users to access a range of lending markets through a single platform.",
+    "repo": "https://github.com/mrgnlabs/marginfi-v2/tree/main/programs/marginfi",
+    "icon": "https://avatars.githubusercontent.com/u/90798644",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending"
+    ]
+  },
+  {
+    "name": "mpl-bubblegum",
+    "description": "Program for creating and interacting with compressed Metaplex NFTs. Compressed NFTs are secured on-chain using Merkle trees.",
+    "repo": "https://github.com/metaplex-foundation/mpl-bubblegum/tree/main/programs/bubblegum/program",
+    "icon": "https://avatars.githubusercontent.com/u/84874526",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "NFT",
+      "Token"
+    ]
+  },
+  {
+    "name": "mpl-token-metadata",
+    "description": "Attach additional data to Fungible or Non-Fungible Tokens on Solana.",
+    "repo": "https://github.com/metaplex-foundation/mpl-token-metadata/tree/main/programs/token-metadata/program",
+    "icon": "https://avatars.githubusercontent.com/u/84874526",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "NFT",
+      "Token"
+    ]
+  },
+  {
+    "name": "openbook-v2",
+    "description": "On-chain orderbook.",
+    "repo": "https://github.com/openbook-dex/openbook-v2/tree/master/programs/openbook-v2",
+    "icon": "https://avatars.githubusercontent.com/u/118142591",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Trading"
+    ]
+  },
+  {
+    "name": "phoenix-v1",
+    "description": "Phoenix is an on-chain orderbook that operates without a crank.",
+    "repo": "https://github.com/Ellipsis-Labs/phoenix-v1",
+    "icon": "https://avatars.githubusercontent.com/u/113389252",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending",
+      "Trading"
+    ]
+  },
+  {
+    "name": "solend",
+    "description": "Solend is an algorithmic, decentralized protocol for lending and borrowing.",
+    "repo": "https://github.com/solendprotocol/solana-program-library/tree/mainnet/token-lending/program",
+    "icon": "https://avatars.githubusercontent.com/u/83670346",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending"
+    ]
+  },
+  {
+    "name": "spl-account-compression",
+    "description": "Make edits to off-chain data with on-chain verification.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/account-compression/programs/account-compression",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "Compression",
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-associated-token-account",
+    "description": "Associated token account program.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/associated-token-account/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-feature-gate",
+    "description": "This program serves to manage new features on Solana.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/feature-gate/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-governance",
+    "description": "SPL Governance is a program the chief purpose of which is to provide core building blocks and primitives to create Decentralized Autonomous Organizations (DAOs).",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/governance/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "Governance",
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-instruction-padding",
+    "description": "A program for padding instructions with additional data or accounts, to be used for testing larger transactions, either more instruction data, or more accounts.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/instruction-padding/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-managed-token",
+    "description": "On-chain program for managed tokens, SPL tokens that are perpetually frozen, and must be used through this program, which will thaw the account, perform an instruction, and re-freeze the account.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/managed-token/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-memo",
+    "description": "A simple program that validates a string of UTF-8 encoded characters and logs it in the transaction log.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/memo/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-name-service",
+    "description": "A spl program for issuing and managing ownership of: domain names, Solana Pubkeys, URLs, twitter handles, ipfs cid's, metadata, etc...",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/name-service/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-noop",
+    "description": "Does nothing.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/account-compression/programs/noop",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-single-pool",
+    "description": "The single-validator stake pool program is an upcoming SPL program that enables liquid staking with zero fees, no counterparty, and 100% capital efficiency.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/single-pool/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-stake-pool",
+    "description": "A program for pooling together SOL to be staked by an off-chain agent running a Delegation Bot which redistributes the stakes across the network and tries to maximize censorship resistance and rewards.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/stake-pool/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL"
+    ]
+  },
+  {
+    "name": "spl-token",
+    "description": "A token program on the Solana blockchain, usable for fungible and non-fungible tokens.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-token-2022",
+    "description": "A token program on the Solana blockchain, usable for fungible and non-fungible tokens.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-token-collection",
+    "description": "This program serves as a reference implementation for using the SPL Token Group interface to create an on-chain program for managing token collections - such as NFT Collections.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-collection/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-token-lending",
+    "description": "A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-lending/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Lending",
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-token-swap",
+    "description": "A Uniswap-like exchange for the Token program on the Solana blockchain.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-swap/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "spl-token-upgrade",
+    "description": "The Token Upgrade Program provides a stateless protocol for permanently converting tokens from one mint to another.",
+    "repo": "https://github.com/solana-labs/solana-program-library/tree/master/token-upgrade/program",
+    "icon": "https://avatars.githubusercontent.com/u/35608259",
+    "framework": "Native",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "SPL",
+      "Token"
+    ]
+  },
+  {
+    "name": "squads-mpl",
+    "description": "The program facilitates signing and executing transactions on behalf of a multisig.",
+    "repo": "https://github.com/Squads-Protocol/squads-mpl/tree/main/programs/squads-mpl",
+    "icon": "https://avatars.githubusercontent.com/u/84348534",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "Multisig"
+    ]
+  },
+  {
+    "name": "whirlpool",
+    "description": "Whirpools is an open-source concentrated liquidity AMM contract on the Solana blockchain.",
+    "repo": "https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool",
+    "icon": "https://avatars.githubusercontent.com/u/74166425",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "DeFi",
+      "Trading"
+    ]
+  },
+  {
+    "name": "xnft",
+    "description": "A protocol for minting and managing executable NFTs.",
+    "repo": "https://github.com/coral-xyz/xnft/tree/master/programs/xnft",
+    "icon": "https://raw.githubusercontent.com/coral-xyz/backpack/eb0e020130881356f9c0ca592e16cad101a2d085/assets/backpack.png",
+    "framework": "Anchor",
+    "languages": [
+      "Rust"
+    ],
+    "categories": [
+      "NFT"
+    ]
+  }
+]
