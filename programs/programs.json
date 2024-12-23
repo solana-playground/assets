@@ -12,6 +12,18 @@
     ]
   },
   {
+    "name": "futarchy",
+    "description": "Programs for market-driven governance",
+    "repo": "https://github.com/metaDAOproject/futarchy/tree/develop/programs",
+    "icon": "https://avatars.githubusercontent.com/u/107701386",
+    "framework": "Anchor",
+    "categories": [
+      "DeFi",
+      "Governance",
+      "Trading"
+    ]
+  },
+  {
     "name": "mango-v4",
     "description": "Mango Markets provides a single venue to lend, borrow, swap, and leverage-trade crypto assets through a powerful risk engine.",
     "repo": "https://github.com/blockworks-foundation/mango-v4/tree/dev/programs/mango-v4",
