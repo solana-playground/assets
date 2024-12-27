@@ -113,6 +113,17 @@
     ]
   },
   {
+    "name": "soundwork-contracts",
+    "description": "A decentralized Sound Network that seeks to revolutionize music production and redefine the music industry’s supply chain.",
+    "icon": "https://avatars.githubusercontent.com/u/132207133",
+    "repo": "https://github.com/SoundWorkLabs/marketplace-contracts/tree/main/programs",
+    "framework": "Anchor",
+    "categories": [
+      "NFT",
+      "Token"
+    ]
+  },
+  {
     "name": "spl-account-compression",
     "description": "Make edits to off-chain data with on-chain verification.",
     "repo": "https://github.com/solana-labs/solana-program-library/tree/master/account-compression/programs/account-compression",
@@ -349,17 +360,6 @@
     "framework": "Anchor",
     "categories": [
       "NFT"
-    ]
-  },
-    {
-    "name": "soundwork-contracts",
-    "description": "A decentralized Sound Network that seeks to revolutionize music production and redefine the music industry’s supply chain.",
-    "icon": "https://avatars.githubusercontent.com/u/132207133",
-    "repo": "https://github.com/SoundWorkLabs/marketplace-contracts/tree/main/programs",
-    "framework": "Anchor",
-    "categories": [
-      "NFT",
-      "Token",
     ]
   }
 ]
