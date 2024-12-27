@@ -355,7 +355,7 @@
     "name": "soundwork-contracts",
     "description": "A decentralized Sound Network that seeks to revolutionize music production and redefine the music industry’s supply chain.",
     "icon": "https://avatars.githubusercontent.com/u/132207133",
-    "repo": "https://github.com/SoundWorkLabs/marketplace-contracts",
+    "repo": "https://github.com/SoundWorkLabs/marketplace-contracts/tree/main/programs",
     "framework": "Anchor",
     "categories": [
       "NFT",
