@@ -1,0 +1,16 @@
+{
+  "name": "Counter PDA Tutorial",
+  "description": "Create a simple counter that will store the number of times is called.",
+  "authors": [
+    {
+      "name": "cleon",
+      "link": "https://twitter.com/0xCleon"
+    }
+  ],
+  "level": "Beginner",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Expense Tracker",
+  "description": "Learn how to create an expense tracker app and understand PDAs",
+  "authors": [
+    {
+      "name": "Bolt / Syed Aabis Akhtar",
+      "link": "https://twitter.com/0xBolt"
+    }
+  ],
+  "level": "Beginner",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ]
+}

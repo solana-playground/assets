@@ -1,0 +1,19 @@
+{
+  "name": "Tiny Adventure Two",
+  "description": "Giving out SOL rewards to players.",
+  "authors": [
+    {
+      "name": "Jonas Hahn",
+      "link": "https://twitter.com/solplay_jonas"
+    }
+  ],
+  "level": "Beginner",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ],
+  "categories": [
+    "Gaming"
+  ]
+}

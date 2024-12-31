@@ -1,0 +1,19 @@
+{
+  "name": "Tiny Adventure",
+  "description": "Create a very simple on chain game. Moving a character left and right. Will be connected to Unity Game Engine later on.",
+  "authors": [
+    {
+      "name": "Jonas Hahn",
+      "link": "https://twitter.com/solplay_jonas"
+    }
+  ],
+  "level": "Beginner",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ],
+  "categories": [
+    "Gaming"
+  ]
+}

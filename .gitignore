@@ -3,3 +3,6 @@ crates
 
 # TypeScript declarations
 packages
+
+# Tutorial content
+tutorials/*/content.json

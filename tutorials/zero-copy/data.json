@@ -1,0 +1,16 @@
+{
+  "name": "Zero Copy",
+  "description": "How to handle memory and big accounts.",
+  "authors": [
+    {
+      "name": "Jonas Hahn",
+      "link": "https://twitter.com/solplay_jonas"
+    }
+  ],
+  "level": "Advanced",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ]
+}

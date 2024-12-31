@@ -1,0 +1,19 @@
+{
+  "name": "Lumberjack",
+  "description": "How to build an energy system on chain.",
+  "authors": [
+    {
+      "name": "Jonas Hahn",
+      "link": "https://twitter.com/solplay_jonas"
+    }
+  ],
+  "level": "Intermediate",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ],
+  "categories": [
+    "Gaming"
+  ]
+}

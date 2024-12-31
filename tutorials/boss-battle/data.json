@@ -1,0 +1,23 @@
+{
+  "name": "Boss Battle",
+  "description": "How to use XORShift random number generator in an onchain game. Spawn and attack an enemy boss, dealing pseudo-random damage utilizing the current slot as a source of randomness.",
+  "authors": [
+    {
+      "name": "Jonas Hahn",
+      "link": "https://twitter.com/solplay_jonas"
+    },
+    {
+      "name": "John",
+      "link": "https://twitter.com/ZYJLiu"
+    }
+  ],
+  "level": "Intermediate",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ],
+  "categories": [
+    "Gaming"
+  ]
+}

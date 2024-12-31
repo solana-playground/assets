@@ -1,0 +1,16 @@
+{
+  "name": "Bank Simulator",
+  "description": "Learn on-chain automation by creating bank program with interest returns.",
+  "authors": [
+    {
+      "name": "Bolt / Syed Aabis Akhtar",
+      "link": "https://twitter.com/0xBolt"
+    }
+  ],
+  "level": "Intermediate",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ]
+}

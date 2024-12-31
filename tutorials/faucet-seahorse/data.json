@@ -1,0 +1,20 @@
+{
+  "name": "Faucet Seahorse",
+  "description": "Build a token faucet with a price oracle.",
+  "authors": [
+    {
+      "name": "lostin",
+      "link": "https://twitter.com/__lostin__"
+    }
+  ],
+  "level": "Intermediate",
+  "framework": "Seahorse",
+  "languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "categories": [
+    "SPL",
+    "Token"
+  ]
+}
