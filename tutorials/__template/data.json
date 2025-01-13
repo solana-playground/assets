@@ -1,0 +1,16 @@
+{
+  "name": "Template Tutorial",
+  "description": "Simple template tutorial.",
+  "authors": [
+    {
+      "name": "acheron",
+      "link": "https://twitter.com/acheroncrypto"
+    }
+  ],
+  "level": "Beginner",
+  "framework": "Anchor",
+  "languages": [
+    "Rust",
+    "TypeScript"
+  ]
+}
