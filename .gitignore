@@ -4,5 +4,8 @@ crates
 # TypeScript declarations
 packages
 
+# Project templates
+templates
+
 # Tutorial content
 tutorials/*/content.json
